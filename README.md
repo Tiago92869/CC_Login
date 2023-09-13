@@ -1,2 +1,1 @@
-# CC_Login
-Login example with portuguese Citizen Card
+# CC_LOGIN_DEMO
